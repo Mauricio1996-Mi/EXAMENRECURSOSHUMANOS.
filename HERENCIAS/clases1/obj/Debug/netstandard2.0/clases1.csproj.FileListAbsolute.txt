@@ -1,0 +1,9 @@
+C:\Users\Microsoft\OneDrive\Escritorio\progra prueb\clases1\bin\Debug\netstandard2.0\clases1.deps.json
+C:\Users\Microsoft\OneDrive\Escritorio\progra prueb\clases1\bin\Debug\netstandard2.0\clases1.dll
+C:\Users\Microsoft\OneDrive\Escritorio\progra prueb\clases1\bin\Debug\netstandard2.0\clases1.pdb
+C:\Users\Microsoft\OneDrive\Escritorio\progra prueb\clases1\obj\Debug\netstandard2.0\clases1.csprojAssemblyReference.cache
+C:\Users\Microsoft\OneDrive\Escritorio\progra prueb\clases1\obj\Debug\netstandard2.0\clases1.AssemblyInfoInputs.cache
+C:\Users\Microsoft\OneDrive\Escritorio\progra prueb\clases1\obj\Debug\netstandard2.0\clases1.AssemblyInfo.cs
+C:\Users\Microsoft\OneDrive\Escritorio\progra prueb\clases1\obj\Debug\netstandard2.0\clases1.csproj.CoreCompileInputs.cache
+C:\Users\Microsoft\OneDrive\Escritorio\progra prueb\clases1\obj\Debug\netstandard2.0\clases1.dll
+C:\Users\Microsoft\OneDrive\Escritorio\progra prueb\clases1\obj\Debug\netstandard2.0\clases1.pdb
